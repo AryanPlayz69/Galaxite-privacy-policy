@@ -1,4 +1,4 @@
-# Hoist-privacy-policy
+# Galaxite-privacy-policy
 
 By using Hoist you accept with its privacy policy.
 
