@@ -22,7 +22,7 @@ We need to prevent servers that abuse the bot, break bot rules.
 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 You can reach us by the following things:
 Join our Support Server on discord
-Contact doglahunter. on discord https://discord.gg/jishaku
+Contact `doglahunter.` on discord https://discord.gg/jishaku
 
 6. How can we delete our entire data?
 Simply join our support server and ask any of the bot developer to delete your entire data, we will delete your entrie data without asking any question.
